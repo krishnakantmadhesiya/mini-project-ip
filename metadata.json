@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Data Usage Tracker",
+  "description": "Weekly cellular and mobile data consumption analytics dashboard with real-time quota telemetry and threshold alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
